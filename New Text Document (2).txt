@@ -1,0 +1,6 @@
+n=9
+c=10
+b=c+n;
+System.out.println(b);
+m=c*n;
+System.out.println(m);
